@@ -18,3 +18,4 @@ A deep learning web application that recognizes handwritten digits (0-9) using C
 ## How to Run
 pip install -r requirements.txt
 streamlit run app.py
+python -m streamlit run app.py
